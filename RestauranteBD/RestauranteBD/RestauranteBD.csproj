@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActualizarPlato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarPlato.Designer.cs">
+      <DependentUpon>ActualizarPlato.cs</DependentUpon>
+    </Compile>
     <Compile Include="Asistente1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RestauranteDataSet.xsd</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ActualizarPlato.resx">
+      <DependentUpon>ActualizarPlato.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Asistente1.resx">
       <DependentUpon>Asistente1.cs</DependentUpon>
     </EmbeddedResource>

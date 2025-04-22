@@ -167,6 +167,7 @@
             this.actualizarDatosToolStripMenuItem1.Name = "actualizarDatosToolStripMenuItem1";
             this.actualizarDatosToolStripMenuItem1.Size = new System.Drawing.Size(237, 26);
             this.actualizarDatosToolStripMenuItem1.Text = "Actualizar datos";
+            this.actualizarDatosToolStripMenuItem1.Click += new System.EventHandler(this.actualizarDatosToolStripMenuItem1_Click);
             // 
             // ingredientesToolStripMenuItem
             // 

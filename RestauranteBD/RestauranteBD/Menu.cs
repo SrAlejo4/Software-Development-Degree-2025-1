@@ -44,5 +44,12 @@ namespace RestauranteBD
             objEliminarPlato.MdiParent = this;
             objEliminarPlato.Show();    
         }
+
+        private void actualizarDatosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            ActualizarPlato objActualizarPlato = new ActualizarPlato();
+            objActualizarPlato.MdiParent = this;
+            objActualizarPlato.Show();
+        }
     }
 }

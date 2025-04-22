@@ -45,7 +45,7 @@
             // btRegresar
             // 
             this.btRegresar.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btRegresar.Location = new System.Drawing.Point(675, 435);
+            this.btRegresar.Location = new System.Drawing.Point(632, 425);
             this.btRegresar.Name = "btRegresar";
             this.btRegresar.Size = new System.Drawing.Size(185, 45);
             this.btRegresar.TabIndex = 47;
@@ -57,7 +57,7 @@
             // 
             this.btEliminar.Enabled = false;
             this.btEliminar.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btEliminar.Location = new System.Drawing.Point(675, 348);
+            this.btEliminar.Location = new System.Drawing.Point(632, 338);
             this.btEliminar.Name = "btEliminar";
             this.btEliminar.Size = new System.Drawing.Size(185, 45);
             this.btEliminar.TabIndex = 46;
@@ -68,7 +68,7 @@
             // btConsultar
             // 
             this.btConsultar.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btConsultar.Location = new System.Drawing.Point(675, 266);
+            this.btConsultar.Location = new System.Drawing.Point(632, 256);
             this.btConsultar.Name = "btConsultar";
             this.btConsultar.Size = new System.Drawing.Size(185, 45);
             this.btConsultar.TabIndex = 45;
@@ -80,7 +80,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(427, 111);
+            this.label5.Location = new System.Drawing.Point(384, 101);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(245, 50);
             this.label5.TabIndex = 44;
@@ -89,7 +89,7 @@
             // txNombre
             // 
             this.txNombre.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txNombre.Location = new System.Drawing.Point(325, 322);
+            this.txNombre.Location = new System.Drawing.Point(282, 312);
             this.txNombre.Name = "txNombre";
             this.txNombre.ReadOnly = true;
             this.txNombre.Size = new System.Drawing.Size(194, 30);
@@ -99,7 +99,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(184, 318);
+            this.label4.Location = new System.Drawing.Point(141, 308);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(97, 36);
             this.label4.TabIndex = 42;
@@ -108,7 +108,7 @@
             // txValor
             // 
             this.txValor.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txValor.Location = new System.Drawing.Point(325, 394);
+            this.txValor.Location = new System.Drawing.Point(282, 384);
             this.txValor.Name = "txValor";
             this.txValor.ReadOnly = true;
             this.txValor.Size = new System.Drawing.Size(194, 30);
@@ -118,7 +118,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(184, 390);
+            this.label3.Location = new System.Drawing.Point(141, 380);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 36);
             this.label3.TabIndex = 40;
@@ -128,7 +128,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(156, 465);
+            this.label2.Location = new System.Drawing.Point(113, 455);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(139, 36);
             this.label2.TabIndex = 39;
@@ -137,7 +137,7 @@
             // txCodigo
             // 
             this.txCodigo.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txCodigo.Location = new System.Drawing.Point(325, 247);
+            this.txCodigo.Location = new System.Drawing.Point(282, 237);
             this.txCodigo.Name = "txCodigo";
             this.txCodigo.Size = new System.Drawing.Size(194, 30);
             this.txCodigo.TabIndex = 38;
@@ -146,7 +146,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(184, 241);
+            this.label1.Location = new System.Drawing.Point(141, 231);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(87, 36);
             this.label1.TabIndex = 37;
@@ -155,7 +155,7 @@
             // txCodigoChef
             // 
             this.txCodigoChef.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txCodigoChef.Location = new System.Drawing.Point(325, 471);
+            this.txCodigoChef.Location = new System.Drawing.Point(282, 461);
             this.txCodigoChef.Name = "txCodigoChef";
             this.txCodigoChef.ReadOnly = true;
             this.txCodigoChef.Size = new System.Drawing.Size(194, 30);
@@ -165,7 +165,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1104, 742);
+            this.ClientSize = new System.Drawing.Size(1007, 691);
             this.Controls.Add(this.txCodigoChef);
             this.Controls.Add(this.btRegresar);
             this.Controls.Add(this.btEliminar);
