@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\eliminarplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\eliminarplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\eliminarplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\eliminarplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\nuevoplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\nuevoplato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|e:\\programaci\u00F3n de software\\restaurantebd\\restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|e:\\programaci\u00F3n de software\\restaurantebd\\restaurantebd\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|e:\\programaci\u00F3n de software\\restaurantebd\\restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\concodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|E:\\Programaci\u00F3n de Software\\RestauranteBD\\restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AF220-EB0A-4978-B3BF-709C25111F46}|RestauranteBD\\RestauranteBD.csproj|solutionrelative:restaurantebd\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +38,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarPlato.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\EliminarPlato.cs",
+              "RelativeDocumentMoniker": "RestauranteBD\\EliminarPlato.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\EliminarPlato.cs",
+              "RelativeToolTip": "RestauranteBD\\EliminarPlato.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAjwEgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:43:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EliminarPlato.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\EliminarPlato.cs",
+              "RelativeDocumentMoniker": "RestauranteBD\\EliminarPlato.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\EliminarPlato.cs [Design]",
+              "RelativeToolTip": "RestauranteBD\\EliminarPlato.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:40:12.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\DB.cs",
+              "RelativeDocumentMoniker": "RestauranteBD\\DB.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\DB.cs",
+              "RelativeToolTip": "RestauranteBD\\DB.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:57:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "conCodigo.cs",
               "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\conCodigo.cs",
               "RelativeDocumentMoniker": "RestauranteBD\\conCodigo.cs",
               "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\conCodigo.cs",
               "RelativeToolTip": "RestauranteBD\\conCodigo.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAywE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwCkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T14:16:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoPlato.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\NuevoPlato.cs",
+              "RelativeDocumentMoniker": "RestauranteBD\\NuevoPlato.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\NuevoPlato.cs",
+              "RelativeToolTip": "RestauranteBD\\NuevoPlato.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:43:48.427Z",
               "EditorCaption": ""
             },
             {
@@ -66,85 +113,19 @@
               "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Menu.cs [Design]",
               "RelativeToolTip": "RestauranteBD\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:56:21.381Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-22T15:57:25.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Menu.cs",
               "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Menu.cs",
               "RelativeDocumentMoniker": "RestauranteBD\\Menu.cs",
               "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Menu.cs",
               "RelativeToolTip": "RestauranteBD\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwCwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:57:06.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Restaurante.cs",
-              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Restaurante.cs",
-              "RelativeDocumentMoniker": "RestauranteBD\\Restaurante.cs",
-              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Restaurante.cs",
-              "RelativeToolTip": "RestauranteBD\\Restaurante.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAzwDIAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:47:29.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NuevoPlato.cs",
-              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\NuevoPlato.cs",
-              "RelativeDocumentMoniker": "RestauranteBD\\NuevoPlato.cs",
-              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\NuevoPlato.cs",
-              "RelativeToolTip": "RestauranteBD\\NuevoPlato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T12:43:58.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DB.cs",
-              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\DB.cs",
-              "RelativeDocumentMoniker": "RestauranteBD\\DB.cs",
-              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\DB.cs",
-              "RelativeToolTip": "RestauranteBD\\DB.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:57:29.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "conCodigo.cs [Design]",
-              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\conCodigo.cs",
-              "RelativeDocumentMoniker": "RestauranteBD\\conCodigo.cs",
-              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\conCodigo.cs [Design]",
-              "RelativeToolTip": "RestauranteBD\\conCodigo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T14:14:14.548Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Program.cs",
-              "RelativeDocumentMoniker": "RestauranteBD\\Program.cs",
-              "ToolTip": "E:\\Programaci\u00F3n de Software\\RestauranteBD\\RestauranteBD\\Program.cs",
-              "RelativeToolTip": "RestauranteBD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:58:15.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:57:30.73Z"
             }
           ]
         }

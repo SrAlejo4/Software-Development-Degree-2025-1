@@ -37,5 +37,12 @@ namespace RestauranteBD
             Restaurante login = new Restaurante();
             login.Show();
         }
+
+        private void eliminarPlatoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            EliminarPlato objEliminarPlato = new EliminarPlato();
+            objEliminarPlato.MdiParent = this;
+            objEliminarPlato.Show();    
+        }
     }
 }

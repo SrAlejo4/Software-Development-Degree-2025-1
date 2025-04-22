@@ -160,6 +160,7 @@
             this.eliminarPlatoToolStripMenuItem.Name = "eliminarPlatoToolStripMenuItem";
             this.eliminarPlatoToolStripMenuItem.Size = new System.Drawing.Size(237, 26);
             this.eliminarPlatoToolStripMenuItem.Text = "Eliminar Plato";
+            this.eliminarPlatoToolStripMenuItem.Click += new System.EventHandler(this.eliminarPlatoToolStripMenuItem_Click);
             // 
             // actualizarDatosToolStripMenuItem1
             // 
@@ -226,7 +227,7 @@
             // salirToolStripMenuItem1
             // 
             this.salirToolStripMenuItem1.Name = "salirToolStripMenuItem1";
-            this.salirToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.salirToolStripMenuItem1.Size = new System.Drawing.Size(121, 26);
             this.salirToolStripMenuItem1.Text = "Salir";
             this.salirToolStripMenuItem1.Click += new System.EventHandler(this.salirToolStripMenuItem1_Click);
             // 

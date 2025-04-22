@@ -1,3 +1,4 @@
+
 USE master;
 GO
 create database Restaurante;
@@ -19,6 +20,7 @@ valor money not null default 0,
 codigo_chef int foreign key references chef(codigo)
 );
 go
+
 
 create table ingredientes
 (
@@ -71,8 +73,27 @@ insert into usuarios values
 ('PeterParker', '1234', 'SuperHeroe', 'SpiderMan');
 go
 
+/* 
+	NO EJECUTAR
+	Modificación de la clave foránea de platos para que permita eliminar platos
+	sin importar que tenga codigo_chef como clave foránea
+*/
+alter table platos drop constraint FK__platos__codigo_c__3B75D760
+alter table platos add foreign key (codigo_chef) references chef(codigo) on delete cascade
+
+/* 
+	NO EJECUTAR
+	Modificación de la clave foránea de ingredientes para que permita eliminar platos
+	sin importar que tenga cod_plato como clave foránea
+*/
+
+alter table ingredientes drop constraint FK__ingredien__cod_p__66603565
+alter table ingredientes add foreign key (cod_plato) references platos(id) on delete set null
+
 select * from chef
 select * from platos
 select * from ingredientes
+
+
 
 
