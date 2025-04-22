@@ -1,0 +1,12 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\bin\Debug\Parcial2AGS.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\bin\Debug\Parcial2AGS.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\bin\Debug\Parcial2AGS.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.Pizza.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Parcial2AGS\Parcial2AGS\obj\Debug\Parcial2AGS.Empleado.resources

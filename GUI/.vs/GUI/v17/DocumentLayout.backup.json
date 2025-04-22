@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|e:\\programaci\u00F3n de software\\gui\\gui\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|E:\\Programaci\u00F3n de Software\\GUI\\gui\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0550687D-0E74-4B9A-9261-CF796AFD5336}|GUI\\GUI.csproj|solutionrelative:gui\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Menu.cs",
+              "RelativeDocumentMoniker": "GUI\\Menu.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Menu.cs",
+              "RelativeToolTip": "GUI\\Menu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:19:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Menu.cs",
+              "RelativeDocumentMoniker": "GUI\\Menu.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:41:33.593Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Caja.cs",
+              "RelativeDocumentMoniker": "GUI\\Caja.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Caja.cs",
+              "RelativeToolTip": "GUI\\Caja.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:40:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caja.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Caja.cs",
+              "RelativeDocumentMoniker": "GUI\\Caja.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Caja.cs [Design]",
+              "RelativeToolTip": "GUI\\Caja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:37:59.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Saludo.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Saludo.cs",
+              "RelativeDocumentMoniker": "GUI\\Saludo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Saludo.cs [Design]",
+              "RelativeToolTip": "GUI\\Saludo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:39:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Saludo.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Saludo.cs",
+              "RelativeDocumentMoniker": "GUI\\Saludo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Saludo.cs",
+              "RelativeToolTip": "GUI\\Saludo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:39:37.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Juego.cs",
+              "RelativeDocumentMoniker": "GUI\\Juego.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Juego.cs",
+              "RelativeToolTip": "GUI\\Juego.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAywF0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:58:27.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:40:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Juego.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Juego.cs",
+              "RelativeDocumentMoniker": "GUI\\Juego.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\GUI\\GUI\\Juego.cs [Design]",
+              "RelativeToolTip": "GUI\\Juego.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:25:52.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

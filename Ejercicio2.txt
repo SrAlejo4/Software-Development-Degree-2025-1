@@ -1,0 +1,7 @@
+Realizar un juego que adivine un número al azar del 1 al 10.
+
+Ejercicio 3
+Realizar un programa para un almacén multiplataforma que posee varias sucursales, una en Bello, Itagüí, Envigado y Medellín. Los cajeros para poder acceder al sistema deben loguearse con una clave fija que va a ser "1A2B". Para facturar los productos se debe tener presente que algunos poseen IVA y otros no, además la empresa está realizando en algunos productos descuentos del 5%, en otros del 10% y otros no tienen descuento . . .
+Se debe imprimir una especie de factura donde se especifique el subtotal, el ahorro, el impuesto y el total a pagar.
+Al final de la jornada de trabajo del cajero se va a entregar un balance que consiste en:
+Total facturado, total IVA y total descuentos ...

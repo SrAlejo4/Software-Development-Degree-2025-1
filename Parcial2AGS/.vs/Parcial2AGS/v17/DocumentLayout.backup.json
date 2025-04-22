@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|c:\\users\\usuario\\onedrive\\escritorio\\parcial2ags\\parcial2ags\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\parcial2ags\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A8B3B-05A1-4244-AF5F-DA7280C64482}|Parcial2AGS\\Parcial2AGS.csproj|solutionrelative:parcial2ags\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Empleado.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Empleado.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Empleado.cs",
+              "RelativeToolTip": "Parcial2AGS\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:38:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Empleado.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Empleado.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Empleado.cs [Design]",
+              "RelativeToolTip": "Parcial2AGS\\Empleado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:32:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Form1.cs",
+              "RelativeToolTip": "Parcial2AGS\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:29:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Program.cs",
+              "RelativeToolTip": "Parcial2AGS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:57:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Form1.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Form1.cs [Design]",
+              "RelativeToolTip": "Parcial2AGS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:39:02.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Pizza.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Pizza.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Pizza.cs",
+              "RelativeToolTip": "Parcial2AGS\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:50:18.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Pizza.cs",
+              "RelativeDocumentMoniker": "Parcial2AGS\\Pizza.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Parcial2AGS\\Parcial2AGS\\Pizza.cs [Design]",
+              "RelativeToolTip": "Parcial2AGS\\Pizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:40:12.775Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\bin\Debug\PrestamosEquipos.exe.config
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\bin\Debug\PrestamosEquipos.exe
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\bin\Debug\PrestamosEquipos.pdb
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.csproj.AssemblyReference.cache
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.PrestamoEquipos.resources
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.Properties.Resources.resources
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.csproj.GenerateResource.cache
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.csproj.CoreCompileInputs.cache
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.exe
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.pdb
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.Computadores.resources
+E:\Programación de Software\PrestamosEquipos\PrestamosEquipos\obj\Debug\PrestamosEquipos.Cajero.resources

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\Factura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|e:\\programaci\u00F3n de software\\factura\\factura\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|solutionrelative:factura\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|E:\\Programaci\u00F3n de Software\\Factura\\factura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|solutionrelative:factura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|E:\\Programaci\u00F3n de Software\\Factura\\factura\\generalio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D8D617-02C9-40E5-A898-6CAE2136D229}|Factura\\Factura.csproj|solutionrelative:factura\\generalio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneraliO.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\GeneraliO.cs",
+              "RelativeDocumentMoniker": "Factura\\GeneraliO.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\GeneraliO.cs",
+              "RelativeToolTip": "Factura\\GeneraliO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:42:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\Producto.cs",
+              "RelativeDocumentMoniker": "Factura\\Producto.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\Producto.cs",
+              "RelativeToolTip": "Factura\\Producto.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:12:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\Program.cs",
+              "RelativeDocumentMoniker": "Factura\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\Factura\\Factura\\Program.cs",
+              "RelativeToolTip": "Factura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:54:44.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

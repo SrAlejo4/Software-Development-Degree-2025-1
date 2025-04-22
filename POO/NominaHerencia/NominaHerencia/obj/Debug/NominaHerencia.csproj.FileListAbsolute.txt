@@ -1,0 +1,14 @@
+D:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.exe.config
+D:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.exe
+D:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.pdb
+D:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.csproj.AssemblyReference.cache
+D:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.csproj.CoreCompileInputs.cache
+D:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.exe
+D:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.pdb
+E:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.exe.config
+E:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.exe
+E:\Programación de Software\NominaHerencia\NominaHerencia\bin\Debug\NominaHerencia.pdb
+E:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.csproj.AssemblyReference.cache
+E:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.csproj.CoreCompileInputs.cache
+E:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.exe
+E:\Programación de Software\NominaHerencia\NominaHerencia\obj\Debug\NominaHerencia.pdb

@@ -1,0 +1,14 @@
+E:\Programación de Software\RestauranteBD\RestauranteBD\bin\Debug\RestauranteBD.exe.config
+E:\Programación de Software\RestauranteBD\RestauranteBD\bin\Debug\RestauranteBD.exe
+E:\Programación de Software\RestauranteBD\RestauranteBD\bin\Debug\RestauranteBD.pdb
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.csproj.AssemblyReference.cache
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.conCodigo.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.Properties.Resources.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.csproj.GenerateResource.cache
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.csproj.CoreCompileInputs.cache
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.exe
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.pdb
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.Menu.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.Restaurante.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.NuevoPlato.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.Asistente1.resources

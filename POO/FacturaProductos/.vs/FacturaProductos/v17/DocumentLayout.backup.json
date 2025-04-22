@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|e:\\programaci\u00F3n de software\\facturaproductos\\facturaproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|solutionrelative:facturaproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|E:\\Programaci\u00F3n de Software\\FacturaProductos\\facturaproductos\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|solutionrelative:facturaproductos\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|E:\\Programaci\u00F3n de Software\\FacturaProductos\\facturaproductos\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|solutionrelative:facturaproductos\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|E:\\Programaci\u00F3n de Software\\FacturaProductos\\facturaproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|solutionrelative:facturaproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|E:\\Programaci\u00F3n de Software\\FacturaProductos\\facturaproductos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA9584E-89CB-4EFA-A79B-589F6ED74C9B}|FacturaProductos\\FacturaProductos.csproj|solutionrelative:facturaproductos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Producto.cs",
+              "RelativeDocumentMoniker": "FacturaProductos\\Producto.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Producto.cs",
+              "RelativeToolTip": "FacturaProductos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:03:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Cliente.cs",
+              "RelativeDocumentMoniker": "FacturaProductos\\Cliente.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Cliente.cs",
+              "RelativeToolTip": "FacturaProductos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:36:55.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaProductos.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\ListaProductos.cs",
+              "RelativeDocumentMoniker": "FacturaProductos\\ListaProductos.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\ListaProductos.cs",
+              "RelativeToolTip": "FacturaProductos\\ListaProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:04:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Factura.cs",
+              "RelativeDocumentMoniker": "FacturaProductos\\Factura.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Factura.cs",
+              "RelativeToolTip": "FacturaProductos\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:52:50.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Program.cs",
+              "RelativeDocumentMoniker": "FacturaProductos\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\FacturaProductos\\FacturaProductos\\Program.cs",
+              "RelativeToolTip": "FacturaProductos\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:59:38.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

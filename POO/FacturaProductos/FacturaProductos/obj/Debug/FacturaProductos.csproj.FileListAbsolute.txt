@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\bin\Debug\FacturaProductos.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\bin\Debug\FacturaProductos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\bin\Debug\FacturaProductos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\obj\Debug\FacturaProductos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\obj\Debug\FacturaProductos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\obj\Debug\FacturaProductos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\FacturaProductos\FacturaProductos\obj\Debug\FacturaProductos.pdb

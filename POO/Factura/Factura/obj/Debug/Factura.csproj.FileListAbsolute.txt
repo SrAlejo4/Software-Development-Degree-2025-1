@@ -1,0 +1,28 @@
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\bin\Debug\Factura.exe.config
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\bin\Debug\Factura.exe
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\bin\Debug\Factura.pdb
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\obj\Debug\Factura.exe
+D:\Programación\Programación de Software\Proyectos\Factura\Factura\obj\Debug\Factura.pdb
+C:\Users\docenteitm\Desktop\Factura\Factura\bin\Debug\Factura.exe.config
+C:\Users\docenteitm\Desktop\Factura\Factura\bin\Debug\Factura.exe
+C:\Users\docenteitm\Desktop\Factura\Factura\bin\Debug\Factura.pdb
+C:\Users\docenteitm\Desktop\Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\docenteitm\Desktop\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm\Desktop\Factura\Factura\obj\Debug\Factura.exe
+C:\Users\docenteitm\Desktop\Factura\Factura\obj\Debug\Factura.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\bin\Debug\Factura.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\bin\Debug\Factura.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\bin\Debug\Factura.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\obj\Debug\Factura.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\Factura\Factura\obj\Debug\Factura.pdb
+E:\Programación de Software\Factura\Factura\bin\Debug\Factura.exe.config
+E:\Programación de Software\Factura\Factura\bin\Debug\Factura.exe
+E:\Programación de Software\Factura\Factura\bin\Debug\Factura.pdb
+E:\Programación de Software\Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+E:\Programación de Software\Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+E:\Programación de Software\Factura\Factura\obj\Debug\Factura.exe
+E:\Programación de Software\Factura\Factura\obj\Debug\Factura.pdb

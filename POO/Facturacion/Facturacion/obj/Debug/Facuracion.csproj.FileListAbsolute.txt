@@ -1,0 +1,7 @@
+E:\Programación de Software\POO\Facuracion\Facuracion\bin\Debug\Facuracion.exe.config
+E:\Programación de Software\POO\Facuracion\Facuracion\bin\Debug\Facuracion.exe
+E:\Programación de Software\POO\Facuracion\Facuracion\bin\Debug\Facuracion.pdb
+E:\Programación de Software\POO\Facuracion\Facuracion\obj\Debug\Facuracion.csproj.AssemblyReference.cache
+E:\Programación de Software\POO\Facuracion\Facuracion\obj\Debug\Facuracion.csproj.CoreCompileInputs.cache
+E:\Programación de Software\POO\Facuracion\Facuracion\obj\Debug\Facuracion.exe
+E:\Programación de Software\POO\Facuracion\Facuracion\obj\Debug\Facuracion.pdb

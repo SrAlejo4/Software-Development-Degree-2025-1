@@ -1,0 +1,14 @@
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\bin\Debug\Punto4.exe.config
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\bin\Debug\Punto4.exe
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\bin\Debug\Punto4.pdb
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\obj\Debug\Punto4.csproj.AssemblyReference.cache
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\obj\Debug\Punto4.exe
+C:\Users\salak406\Downloads\Taller\Punto1\Punto4\obj\Debug\Punto4.pdb
+E:\Programación de Software\Taller\Punto1\Punto4\bin\Debug\Punto4.exe.config
+E:\Programación de Software\Taller\Punto1\Punto4\bin\Debug\Punto4.exe
+E:\Programación de Software\Taller\Punto1\Punto4\bin\Debug\Punto4.pdb
+E:\Programación de Software\Taller\Punto1\Punto4\obj\Debug\Punto4.csproj.AssemblyReference.cache
+E:\Programación de Software\Taller\Punto1\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
+E:\Programación de Software\Taller\Punto1\Punto4\obj\Debug\Punto4.exe
+E:\Programación de Software\Taller\Punto1\Punto4\obj\Debug\Punto4.pdb

@@ -1,0 +1,10 @@
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.ListaPendientes.resources
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+E:\Programación de Software\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+E:\Programación de Software\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+E:\Programación de Software\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+E:\Programación de Software\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

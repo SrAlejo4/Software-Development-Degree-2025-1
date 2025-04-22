@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|e:\\programaci\u00F3n de software\\poo\\agendaamigos\\agendaamigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|solutionrelative:agendaamigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\agendaamigos\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|solutionrelative:agendaamigos\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\agendaamigos\\vectoramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBE7137-728E-4F95-B76E-F95182488F27}|AgendaAmigos\\AgendaAmigos.csproj|solutionrelative:agendaamigos\\vectoramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorAmigos.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\VectorAmigos.cs",
+              "RelativeDocumentMoniker": "AgendaAmigos\\VectorAmigos.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\VectorAmigos.cs",
+              "RelativeToolTip": "AgendaAmigos\\VectorAmigos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:57:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amigo.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\Amigo.cs",
+              "RelativeDocumentMoniker": "AgendaAmigos\\Amigo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\Amigo.cs",
+              "RelativeToolTip": "AgendaAmigos\\Amigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:22:23.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaAmigos\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\AgendaAmigos\\AgendaAmigos\\Program.cs",
+              "RelativeToolTip": "AgendaAmigos\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:21:33.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

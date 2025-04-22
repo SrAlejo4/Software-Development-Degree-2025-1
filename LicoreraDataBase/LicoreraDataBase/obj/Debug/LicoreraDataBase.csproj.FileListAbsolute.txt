@@ -1,0 +1,7 @@
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\bin\Debug\LicoreraDataBase.exe.config
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\bin\Debug\LicoreraDataBase.exe
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\bin\Debug\LicoreraDataBase.pdb
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\obj\Debug\LicoreraDataBase.csproj.AssemblyReference.cache
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\obj\Debug\LicoreraDataBase.csproj.CoreCompileInputs.cache
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\obj\Debug\LicoreraDataBase.exe
+D:\Programación de Software\LicoreraDataBase\LicoreraDataBase\obj\Debug\LicoreraDataBase.pdb

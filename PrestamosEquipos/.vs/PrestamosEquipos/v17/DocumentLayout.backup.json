@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|e:\\programaci\u00F3n de software\\prestamosequipos\\prestamosequipos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\prestamosequipos\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{527D82A6-85FE-47C5-9747-3F2B3A05869A}|PrestamosEquipos\\PrestamosEquipos.csproj|solutionrelative:prestamosequipos\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Program.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Program.cs",
+              "RelativeToolTip": "PrestamosEquipos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:53:52.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computadores.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Computadores.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Computadores.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Computadores.cs",
+              "RelativeToolTip": "PrestamosEquipos\\Computadores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:29:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Prestamo.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Prestamo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Prestamo.cs",
+              "RelativeToolTip": "PrestamosEquipos\\Prestamo.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:20:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cajero.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Cajero.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Cajero.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Cajero.cs [Design]",
+              "RelativeToolTip": "PrestamosEquipos\\Cajero.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:37:59.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cajero.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Cajero.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Cajero.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Cajero.cs",
+              "RelativeToolTip": "PrestamosEquipos\\Cajero.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:27:32.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Computadores.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Computadores.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Computadores.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Computadores.cs [Design]",
+              "RelativeToolTip": "PrestamosEquipos\\Computadores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:09:14.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs [Design]",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Prestamo.cs",
+              "RelativeDocumentMoniker": "PrestamosEquipos\\Prestamo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\PrestamosEquipos\\PrestamosEquipos\\Prestamo.cs [Design]",
+              "RelativeToolTip": "PrestamosEquipos\\Prestamo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:31:37.622Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

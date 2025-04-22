@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\ifecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\ifecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\generalio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\generalio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|e:\\programaci\u00F3n de software\\poo\\nominaherencia\\nominaherencia\\generalnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\generalnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\nominaherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52480401-7E92-4D48-A869-520DD46A78C9}|NominaHerencia\\NominaHerencia.csproj|solutionrelative:nominaherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fecha.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Fecha.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Fecha.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Fecha.cs",
+              "RelativeToolTip": "NominaHerencia\\Fecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:23:11.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ifecha.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Ifecha.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Ifecha.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Ifecha.cs",
+              "RelativeToolTip": "NominaHerencia\\Ifecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:22:23.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralNomina.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\GeneralNomina.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\GeneralNomina.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\GeneralNomina.cs",
+              "RelativeToolTip": "NominaHerencia\\GeneralNomina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:40:23.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralIo.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\GeneralIo.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\GeneralIo.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\GeneralIo.cs",
+              "RelativeToolTip": "NominaHerencia\\GeneralIo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:04:47.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salario.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Salario.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Salario.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Salario.cs",
+              "RelativeToolTip": "NominaHerencia\\Salario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:28:58.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Horas.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Horas.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Horas.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Horas.cs",
+              "RelativeToolTip": "NominaHerencia\\Horas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:19:08.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Trabajador.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Trabajador.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Trabajador.cs",
+              "RelativeToolTip": "NominaHerencia\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:12:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Program.cs",
+              "RelativeDocumentMoniker": "NominaHerencia\\Program.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\POO\\NominaHerencia\\NominaHerencia\\Program.cs",
+              "RelativeToolTip": "NominaHerencia\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:03:00.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

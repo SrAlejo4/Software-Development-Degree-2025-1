@@ -1,0 +1,21 @@
+========================**=========================
+Johan Camilo Franco Bedoya - 22158094			=====================
+									         /
+Alejandro García Sánchez - 23158207                      4 + 7 + 8 = 19 => Tema 3 /
+									         /	
+Edwin Andres Flórez González - 23158188			=====================
+
+========================**=========================
+
+Metodo miembro clase: Se da a entender como lo que concreta las acciones o comportamientos que pueden adoptar (segun su necesidad) de los objetos en una clase en especifico
+
+Objeto: Un objeto funciona como una unidad estructurada que agrupa diversos datos y comportamientos, tratando de modelar un "elemento" del mundo real. Por ejemplo: Un carro o una moto, con acciones como acelerar o frenar.
+
+Herencia: La herencia en POO es como cuando una persona recibe ciertas características de sus padres en pocas palabras se puede decir que es herencia genética. Pero en términos de programación significa que una clase nueva puede basarse en otra ya existente aprovechando funciones sin necesidad de volver a escribirlas todas desde cero.
+Esto nos permite reutilizar código y hacer que las relaciones entre clases sean mas organizadas. Por ejemplo: si tenemos una clase "Animal" con atributos como nombre, tamaño, tipo, ovíparo o vivíparo, etc. Y con esto podemos crear una clase nueva "Perro" que herede algunos atributos o características de la clase (animal) y además podemos agregarles atributos propios a las clases nueva (perro) como podría ser ladrar, olfatear, morder, entre otras.
+
+Abstracción:
+La abstracción permite representar de manera simple y práctica el funcionamiento del mundo real en la programación, entendiendo a los elementos físicos o abstractos que nos rodean como objetos que poseen características y funcionalidades esenciales, dejando fuera detalles irrelevantes y facilitando la adaptación en la creación del software.
+
+Polimorfismo:
+El polimorfismo posibilita que las funcionalidades de un objeto se comporten de manera diferente según el contexto en el que se deba desempeñar dicho objeto o las necesidades que se tengan.

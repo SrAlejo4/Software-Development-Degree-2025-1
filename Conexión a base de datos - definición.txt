@@ -1,0 +1,2 @@
+Las aplicaciones tienen dos tipos de información:
+Constantes y variables . . .

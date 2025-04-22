@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\QUINTO SEMESTRE\Programación de Software\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.pdb
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.exe.config
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.exe
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\bin\Debug\AgendaAmigos.pdb
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.csproj.AssemblyReference.cache
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.csproj.CoreCompileInputs.cache
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.exe
+E:\Programación de Software\POO\AgendaAmigos\AgendaAmigos\obj\Debug\AgendaAmigos.pdb
