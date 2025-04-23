@@ -46,29 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActualizarPlato.cs">
+    <Compile Include="Asistido1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ActualizarPlato.Designer.cs">
+    <Compile Include="Asistido1.Designer.cs">
+      <DependentUpon>Asistido1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platos\ActualizarPlato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Platos\ActualizarPlato.Designer.cs">
       <DependentUpon>ActualizarPlato.cs</DependentUpon>
     </Compile>
-    <Compile Include="Asistente1.cs">
+    <Compile Include="Platos\conCodigo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Asistente1.Designer.cs">
-      <DependentUpon>Asistente1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="conCodigo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="conCodigo.Designer.cs">
+    <Compile Include="Platos\conCodigo.Designer.cs">
       <DependentUpon>conCodigo.cs</DependentUpon>
     </Compile>
     <Compile Include="DB.cs" />
-    <Compile Include="EliminarPlato.cs">
+    <Compile Include="Platos\EliminarPlato.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EliminarPlato.Designer.cs">
+    <Compile Include="Platos\EliminarPlato.Designer.cs">
       <DependentUpon>EliminarPlato.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
@@ -77,10 +77,10 @@
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="NuevoPlato.cs">
+    <Compile Include="Platos\NuevoPlato.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NuevoPlato.Designer.cs">
+    <Compile Include="Platos\NuevoPlato.Designer.cs">
       <DependentUpon>NuevoPlato.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -96,22 +96,27 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RestauranteDataSet.xsd</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ActualizarPlato.resx">
+    <Compile Include="RestauranteDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RestauranteDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Asistido1.resx">
+      <DependentUpon>Asistido1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platos\ActualizarPlato.resx">
       <DependentUpon>ActualizarPlato.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Asistente1.resx">
-      <DependentUpon>Asistente1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="conCodigo.resx">
+    <EmbeddedResource Include="Platos\conCodigo.resx">
       <DependentUpon>conCodigo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EliminarPlato.resx">
+    <EmbeddedResource Include="Platos\EliminarPlato.resx">
       <DependentUpon>EliminarPlato.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NuevoPlato.resx">
+    <EmbeddedResource Include="Platos\NuevoPlato.resx">
       <DependentUpon>NuevoPlato.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -146,6 +151,17 @@
     </None>
     <None Include="RestauranteDataSet.xss">
       <DependentUpon>RestauranteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RestauranteDataSet1.xsc">
+      <DependentUpon>RestauranteDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RestauranteDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RestauranteDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RestauranteDataSet1.xss">
+      <DependentUpon>RestauranteDataSet1.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
