@@ -33,6 +33,10 @@
             this.consultaPorCódigoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultaPorNombreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.nuevoChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.borrarChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.actualizarDatosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cRUDChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.platosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarPorCódigoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarPorNombreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -47,13 +51,9 @@
             this.agregarIngredienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.borrarIngredienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.actualizarDatosToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.conexiónAsistidaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.nuevoChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.borrarChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.actualizarDatosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cRUDChefToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.conexiónAsistidaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -102,6 +102,31 @@
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(229, 6);
+            // 
+            // nuevoChefToolStripMenuItem
+            // 
+            this.nuevoChefToolStripMenuItem.Name = "nuevoChefToolStripMenuItem";
+            this.nuevoChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
+            this.nuevoChefToolStripMenuItem.Text = "Nuevo Chef";
+            // 
+            // borrarChefToolStripMenuItem
+            // 
+            this.borrarChefToolStripMenuItem.Name = "borrarChefToolStripMenuItem";
+            this.borrarChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
+            this.borrarChefToolStripMenuItem.Text = "Borrar Chef";
+            // 
+            // actualizarDatosToolStripMenuItem
+            // 
+            this.actualizarDatosToolStripMenuItem.Name = "actualizarDatosToolStripMenuItem";
+            this.actualizarDatosToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
+            this.actualizarDatosToolStripMenuItem.Text = "Actualizar datos";
+            // 
+            // cRUDChefToolStripMenuItem
+            // 
+            this.cRUDChefToolStripMenuItem.Name = "cRUDChefToolStripMenuItem";
+            this.cRUDChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
+            this.cRUDChefToolStripMenuItem.Text = "CRUD Chef";
+            this.cRUDChefToolStripMenuItem.Click += new System.EventHandler(this.cRUDChefToolStripMenuItem_Click);
             // 
             // platosToolStripMenuItem
             // 
@@ -203,6 +228,13 @@
             this.actualizarDatosToolStripMenuItem2.Size = new System.Drawing.Size(237, 26);
             this.actualizarDatosToolStripMenuItem2.Text = "Actualizar datos";
             // 
+            // conexiónAsistidaToolStripMenuItem
+            // 
+            this.conexiónAsistidaToolStripMenuItem.Name = "conexiónAsistidaToolStripMenuItem";
+            this.conexiónAsistidaToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
+            this.conexiónAsistidaToolStripMenuItem.Text = "Conexión Asistida";
+            this.conexiónAsistidaToolStripMenuItem.Click += new System.EventHandler(this.conexiónAsistidaToolStripMenuItem_Click);
+            // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -210,45 +242,14 @@
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(52, 24);
             this.salirToolStripMenuItem.Text = "Salir";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem1
             // 
             this.salirToolStripMenuItem1.Name = "salirToolStripMenuItem1";
-            this.salirToolStripMenuItem1.Size = new System.Drawing.Size(121, 26);
+            this.salirToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.salirToolStripMenuItem1.Text = "Salir";
             this.salirToolStripMenuItem1.Click += new System.EventHandler(this.salirToolStripMenuItem1_Click);
-            // 
-            // nuevoChefToolStripMenuItem
-            // 
-            this.nuevoChefToolStripMenuItem.Name = "nuevoChefToolStripMenuItem";
-            this.nuevoChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
-            this.nuevoChefToolStripMenuItem.Text = "Nuevo Chef";
-            // 
-            // borrarChefToolStripMenuItem
-            // 
-            this.borrarChefToolStripMenuItem.Name = "borrarChefToolStripMenuItem";
-            this.borrarChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
-            this.borrarChefToolStripMenuItem.Text = "Borrar Chef";
-            // 
-            // actualizarDatosToolStripMenuItem
-            // 
-            this.actualizarDatosToolStripMenuItem.Name = "actualizarDatosToolStripMenuItem";
-            this.actualizarDatosToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
-            this.actualizarDatosToolStripMenuItem.Text = "Actualizar datos";
-            // 
-            // cRUDChefToolStripMenuItem
-            // 
-            this.cRUDChefToolStripMenuItem.Name = "cRUDChefToolStripMenuItem";
-            this.cRUDChefToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
-            this.cRUDChefToolStripMenuItem.Text = "CRUD Chef";
-            this.cRUDChefToolStripMenuItem.Click += new System.EventHandler(this.cRUDChefToolStripMenuItem_Click);
-            // 
-            // conexiónAsistidaToolStripMenuItem
-            // 
-            this.conexiónAsistidaToolStripMenuItem.Name = "conexiónAsistidaToolStripMenuItem";
-            this.conexiónAsistidaToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
-            this.conexiónAsistidaToolStripMenuItem.Text = "Conexión Asistida";
-            this.conexiónAsistidaToolStripMenuItem.Click += new System.EventHandler(this.conexiónAsistidaToolStripMenuItem_Click);
             // 
             // Menu
             // 

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|c:\\users\\usuario\\onedrive\\escritorio\\alejandrogarciasanchez\\parcial3ags\\parcial3ags\\eliminaraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\eliminaraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\eliminaraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\eliminaraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\recuperarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\recuperarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\recuperarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\recuperarclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\nuevoprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\nuevoprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\nuevoprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\nuevoprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\parcial3ags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75D9A52-0669-4152-83D2-5D693F6C6B01}|Parcial3AGS\\Parcial3AGS.csproj|solutionrelative:parcial3ags\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\EliminarAplicacion.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\EliminarAplicacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\EliminarAplicacion.cs",
+              "RelativeToolTip": "Parcial3AGS\\EliminarAplicacion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:31:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecuperarClave.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\RecuperarClave.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\RecuperarClave.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\RecuperarClave.cs [Design]",
+              "RelativeToolTip": "Parcial3AGS\\RecuperarClave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:01:15.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Menu.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\Menu.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Menu.cs",
+              "RelativeToolTip": "Parcial3AGS\\Menu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAxwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:41:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Login.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\Login.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Login.cs [Design]",
+              "RelativeToolTip": "Parcial3AGS\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:09:41.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Login.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\Login.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Login.cs",
+              "RelativeToolTip": "Parcial3AGS\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:32:32.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecuperarClave.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\RecuperarClave.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\RecuperarClave.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\RecuperarClave.cs",
+              "RelativeToolTip": "Parcial3AGS\\RecuperarClave.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwF8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:09:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EliminarAplicacion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\EliminarAplicacion.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\EliminarAplicacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\EliminarAplicacion.cs [Design]",
+              "RelativeToolTip": "Parcial3AGS\\EliminarAplicacion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:27:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Menu.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\Menu.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Menu.cs [Design]",
+              "RelativeToolTip": "Parcial3AGS\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:36:07.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NuevoProgramador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\NuevoProgramador.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\NuevoProgramador.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\NuevoProgramador.cs [Design]",
+              "RelativeToolTip": "Parcial3AGS\\NuevoProgramador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:44:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NuevoProgramador.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\NuevoProgramador.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\NuevoProgramador.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\NuevoProgramador.cs",
+              "RelativeToolTip": "Parcial3AGS\\NuevoProgramador.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:48:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\DB.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\DB.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\DB.cs",
+              "RelativeToolTip": "Parcial3AGS\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:33:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial3AGS\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\AlejandroGarciaSanchez\\Parcial3AGS\\Parcial3AGS\\Program.cs",
+              "RelativeToolTip": "Parcial3AGS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:38:49.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

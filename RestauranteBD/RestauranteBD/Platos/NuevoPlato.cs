@@ -47,5 +47,10 @@ namespace RestauranteBD
         {
             this.Close();
         }
+
+        private void btBorrar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

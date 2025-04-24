@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\bin\Debug\Parcial3AGS.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\bin\Debug\Parcial3AGS.exe
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\bin\Debug\Parcial3AGS.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.Login.resources
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.exe
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.Menu.resources
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.NuevoProgramador.resources
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.RecuperarClave.resources
+C:\Users\USUARIO\OneDrive\Escritorio\AlejandroGarciaSanchez\Parcial3AGS\Parcial3AGS\obj\Debug\Parcial3AGS.EliminarAplicacion.resources

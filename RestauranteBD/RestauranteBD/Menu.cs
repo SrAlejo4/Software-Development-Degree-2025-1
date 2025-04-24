@@ -65,5 +65,10 @@ namespace RestauranteBD
             objChefBD.MdiParent = this;
             objChefBD.Show();
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
