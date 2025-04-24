@@ -14,3 +14,4 @@ E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD
 E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.EliminarPlato.resources
 E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.ActualizarPlato.resources
 E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.Asistido1.resources
+E:\Programación de Software\RestauranteBD\RestauranteBD\obj\Debug\RestauranteBD.ChefBD.resources

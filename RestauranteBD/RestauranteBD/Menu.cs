@@ -51,5 +51,19 @@ namespace RestauranteBD
             objActualizarPlato.MdiParent = this;
             objActualizarPlato.Show();
         }
+
+        private void conexiónAsistidaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Asistido1 objAsistido = new Asistido1();
+            objAsistido.MdiParent = this;
+            objAsistido.Show();
+        }
+
+        private void cRUDChefToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ChefBD objChefBD = new ChefBD();
+            objChefBD.MdiParent = this;
+            objChefBD.Show();
+        }
     }
 }

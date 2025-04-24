@@ -16,7 +16,7 @@ namespace RestauranteBD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Asistido1());
+            Application.Run(new Menu());
         }
     }
 }

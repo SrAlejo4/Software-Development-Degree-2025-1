@@ -52,6 +52,12 @@
     <Compile Include="Asistido1.Designer.cs">
       <DependentUpon>Asistido1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ChefBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChefBD.Designer.cs">
+      <DependentUpon>ChefBD.cs</DependentUpon>
+    </Compile>
     <Compile Include="Platos\ActualizarPlato.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,6 +109,9 @@
     </Compile>
     <EmbeddedResource Include="Asistido1.resx">
       <DependentUpon>Asistido1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChefBD.resx">
+      <DependentUpon>ChefBD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Platos\ActualizarPlato.resx">
       <DependentUpon>ActualizarPlato.cs</DependentUpon>
