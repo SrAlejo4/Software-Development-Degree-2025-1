@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programaci\u00F3n de Software\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E17038-D76F-4E48-B3F6-20384C19051D}|API\\API.csproj|e:\\programaci\u00F3n de software\\api\\api\\controllers\\platoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E17038-D76F-4E48-B3F6-20384C19051D}|API\\API.csproj|solutionrelative:api\\controllers\\platoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E17038-D76F-4E48-B3F6-20384C19051D}|API\\API.csproj|e:\\programaci\u00F3n de software\\api\\api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8E17038-D76F-4E48-B3F6-20384C19051D}|API\\API.csproj|solutionrelative:api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E051C1E-0015-477A-8688-ACD87D2E5FC0}|Conector\\Conector.csproj|e:\\programaci\u00F3n de software\\api\\conector\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E051C1E-0015-477A-8688-ACD87D2E5FC0}|Conector\\Conector.csproj|solutionrelative:conector\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "platosController.cs",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\API\\API\\Controllers\\platosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\platosController.cs",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\API\\API\\Controllers\\platosController.cs",
+              "RelativeToolTip": "API\\Controllers\\platosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:35:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\API\\API\\Web.config",
+              "RelativeDocumentMoniker": "API\\Web.config",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\API\\API\\Web.config",
+              "RelativeToolTip": "API\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T15:24:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Config",
+              "DocumentMoniker": "E:\\Programaci\u00F3n de Software\\API\\Conector\\App.Config",
+              "RelativeDocumentMoniker": "Conector\\App.Config",
+              "ToolTip": "E:\\Programaci\u00F3n de Software\\API\\Conector\\App.Config",
+              "RelativeToolTip": "Conector\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T15:24:15.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

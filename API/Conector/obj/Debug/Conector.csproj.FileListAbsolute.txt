@@ -1,0 +1,12 @@
+E:\Programación de Software\API\Conector\bin\Debug\Conector.dll.config
+E:\Programación de Software\API\Conector\bin\Debug\Conector.dll
+E:\Programación de Software\API\Conector\bin\Debug\Conector.pdb
+E:\Programación de Software\API\Conector\bin\Debug\EntityFramework.dll
+E:\Programación de Software\API\Conector\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programación de Software\API\Conector\bin\Debug\EntityFramework.xml
+E:\Programación de Software\API\Conector\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programación de Software\API\Conector\obj\Debug\Conector.csproj.AssemblyReference.cache
+E:\Programación de Software\API\Conector\obj\Debug\Conector.csproj.CoreCompileInputs.cache
+E:\Programación de Software\API\Conector\obj\Debug\Conector.csproj.Up2Date
+E:\Programación de Software\API\Conector\obj\Debug\Conector.dll
+E:\Programación de Software\API\Conector\obj\Debug\Conector.pdb
